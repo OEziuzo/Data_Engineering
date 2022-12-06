@@ -6,4 +6,4 @@ MySQL,
 Db2.
 
 ## Non-Relational Database
-Apache Cassandra
+Apache Cassandra.
