@@ -27,3 +27,5 @@ This folder contains the log_data and the songd_data. The extraction is done on 
 step 1: Run the create_tables.py script to create the database, tables through at the terminal  via 'python create_tables.py'.
 
 step 2: Run the etl.py script at the terminal window via 'python etl.py' to run the etl process and load data into the database.
+
+![Sparkify](https://user-images.githubusercontent.com/104716831/205896473-60f8fdcf-e2bc-464b-93e3-1f4e2651d254.JPG)
