@@ -1,5 +1,9 @@
 # Data_Engineering
 
-Postgres
-MySQL
-Db2
+## Relational Database
+Postgres,
+MySQL,
+Db2.
+
+## Non-Relational Database
+Apache Cassandra
