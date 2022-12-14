@@ -36,7 +36,8 @@ Step 2: Build ETL Pipeline
 Log data json path: 's3://udacity-dend/log_json_path.json'
 
 ## ERD 
-see 'Sparkify_2.JPG'
+
+![Sparkify_2](https://user-images.githubusercontent.com/104716831/207577238-600ff6f1-15a4-439a-80d4-a990233c664b.JPG)
 
 ## How to run the Project
 
