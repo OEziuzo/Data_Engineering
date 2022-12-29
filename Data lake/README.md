@@ -30,3 +30,6 @@ The datasets available for this projects are all in JSON format and the reside i
 - creat a file in the new environment and name it etl.py and click 'i'.
 - copy the code in the 'etl.py' script from the workspace, paste it in the new file created, click 'Esc' button type ':wq enter'.
 - type 'spark-submit etl.py' and click 'Enter'.
+
+### ERD
+![Sparkify_datalake](https://user-images.githubusercontent.com/104716831/210006099-2e2485f9-3a93-45b7-bef1-edf257b95d0b.JPG)
