@@ -9,7 +9,10 @@ Db2.
 Apache Cassandra.
 
 ## Data Warehouse
+Amazon Redshift
 
 ## Data Lake
+S3, Pyspark
 
 ## Data Pipeline
+Apache Airflow
