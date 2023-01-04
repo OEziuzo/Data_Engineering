@@ -20,3 +20,5 @@ Step 1: Modeling NoSQL database or Apache Cassandra daatabase
 
 Step 2: Build ETL Pipeline
 - Writing ETL logic fo iterate through each event file in 'event_data' to process and create a new CSV file in Python.
+
+Project_1B.ipynb notebook is used for visualization of the process.
