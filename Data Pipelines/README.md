@@ -7,4 +7,4 @@ A music streaming company, Sparkify intends to use Apache Airflow to automate an
 ## Needed tools
 Python, 
 AWS, 
-Apache Airflow, 
+Apache Airflow
