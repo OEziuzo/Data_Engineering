@@ -8,3 +8,26 @@ A music streaming company, Sparkify intends to use Apache Airflow to automate an
 Python, 
 AWS, 
 Apache Airflow
+
+## Data sources:
+- Log data: s3://udacity-dend/log_data
+- Song data: s3://udacity-dend/song_data
+
+## Destinations
+- Staging Tables
+-- staging_events
+-- staging_songs
+
+- Fact Table:
+-- songplays
+
+- Dimension Table:
+-- users
+-- songs
+-- artists
+-- time
+
+## How to run
+- Make the neccessary connections between the AWS and Redshift (prerequisite).
+- Run the 'create_tables_dag.py' in the Airflow UI.
+- Run the 'udac_example_dag.py' in the Airflow UI.
