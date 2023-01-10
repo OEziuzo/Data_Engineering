@@ -14,18 +14,18 @@ Apache Airflow
 - Song data: s3://udacity-dend/song_data
 
 ## Destinations
-- Staging Tables
--- staging_events
--- staging_songs
+- Staging Tables: 
+ staging_events,
+ staging_songs
 
 - Fact Table:
--- songplays
+ songplays
 
 - Dimension Table:
--- users
--- songs
--- artists
--- time
+ users,
+ songs,
+ artists,
+ time
 
 ## How to run
 - Make the neccessary connections between the AWS and Redshift (prerequisite).
