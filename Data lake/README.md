@@ -1,4 +1,5 @@
 ## DATA LAKE
+![aws_emr](https://user-images.githubusercontent.com/104716831/211688819-6476cbca-af46-40f2-975b-6ee08e38b843.JPG)
 
 ### INTRODUCTION
 A music streaming startup, Sparkify want to move their data warehouse to a data lake. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
