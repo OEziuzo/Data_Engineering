@@ -1,5 +1,6 @@
 
 # Data Pipelines with Airflow
+![aws_emr](https://user-images.githubusercontent.com/104716831/211688568-598c0d67-3ec5-45e8-9506-785f2c3aa588.JPG)
 
 ## Summary
 A music streaming company, Sparkify intends to use Apache Airflow to automate and monitor their data warehouse ETL pipelines. They want a data engineer to create a high grade data pipelines that are dynamic and built from reusable tasks which can be monitored and allow easy backfills. The source data resides in s3 and needs to be processed in Sparkify's data warehouse in Amazon Redshift.
